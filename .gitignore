@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+.venv/
+venv/
+.python-version
+.DS_Store
+*.log
+*.tmp

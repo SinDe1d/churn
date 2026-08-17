@@ -1,0 +1,55 @@
+feature,mean_abs_shap,mean_shap,label
+is_month_to_month,0.7774616092903751,0.1101926762000376,Contrat mensuel
+tenure,0.38300393198850474,-0.034053006635290435,Ancienneté courte
+OnlineSecurity_No,0.2363088465082768,-0.012201234540927917,Sans sécurité en ligne
+InternetService_Fiber optic,0.19295488014984133,-0.001508805992531253,Internet fibre
+is_electronic_check,0.16502643032300202,-0.015590362398893111,Paiement par chèque électronique
+avg_monthly_spend,0.1501966362139688,0.0032535927768909466,avg monthly spend
+TechSupport_No,0.14852392064802114,-0.013205919830304695,Sans support technique
+MonthlyCharges,0.14458665677123228,-0.018720753586129037,Facture mensuelle élevée
+Contract_One year,0.11810229555404556,-0.03324747449932774,Contract One year
+Contract_Two year,0.11077190154236514,0.022260425173890097,Contract Two year
+TotalCharges,0.08883738798821791,-0.005353251098573707,Dépenses cumulées
+PaperlessBilling_No,0.08524870773175841,-0.004008006757104248,PaperlessBilling No
+MultipleLines_No,0.059354936791560925,-0.0013781947683469504,MultipleLines No
+OnlineBackup_No,0.04252557870274125,-0.0015466180825708974,Sans sauvegarde en ligne
+SeniorCitizen,0.03676377626147074,0.004565077954510206,Client senior
+StreamingMovies_Yes,0.03323065529837735,-0.001367315326013287,Streaming films
+InternetService_DSL,0.032115817874366,-0.0015888917712807325,InternetService DSL
+has_premium_support,0.031003668390664086,0.008297553549034747,Sécurité ou support premium
+StreamingMovies_No,0.026721937806931315,0.0008684166856203378,StreamingMovies No
+PaymentMethod_Mailed check,0.026071990224279456,0.0006166453639452366,PaymentMethod Mailed check
+Dependents_No,0.023493012071068745,-0.0010539874693028424,Sans personne à charge
+StreamingTV_Yes,0.01808295878486677,0.0014586910928470565,Streaming TV
+PhoneService_No,0.015941518745338883,-0.004312813039392347,PhoneService No
+StreamingTV_No,0.012933795656638035,0.00016726031502899702,StreamingTV No
+num_services,0.009186704372143481,-0.002268569062697274,Nombre de services
+auto_payment,0.007699776772571192,0.0008107439663599179,auto payment
+has_streaming,0.005482830493023548,-0.00016322368836991223,Services de streaming
+OnlineBackup_Yes,0.00345860570945899,-0.0006774562264598157,OnlineBackup Yes
+PaymentMethod_Bank transfer (automatic),0.0030802805834517226,-0.0003444560905978266,PaymentMethod Bank transfer (automatic)
+PaymentMethod_Credit card (automatic),0.00241686293116985,0.0002967980871503112,PaymentMethod Credit card (automatic)
+DeviceProtection_No,0.001966062715193839,-0.000251278752743817,Sans protection appareil
+MultipleLines_Yes,0.0008814525538293082,-0.00010717623770607723,MultipleLines Yes
+DeviceProtection_Yes,0.0006915257463895494,0.0001422299164113543,DeviceProtection Yes
+PaperlessBilling_Yes,0.0005111813425472805,0.00014807106881058426,Facturation sans papier
+OnlineSecurity_Yes,0.0004933621568395608,-0.00012403536494959625,OnlineSecurity Yes
+Dependents_Yes,0.00021355129949839885,-5.35093102292435e-06,Dependents Yes
+tenure_years,0.0,0.0,tenure years
+is_long_tenure,0.0,0.0,is long tenure
+PhoneService_Yes,0.0,0.0,PhoneService Yes
+Partner_Yes,0.0,0.0,Partner Yes
+Partner_No,0.0,0.0,Sans partenaire
+is_new_customer,0.0,0.0,Nouveau client
+charge_per_tenure_month,0.0,0.0,charge per tenure month
+MultipleLines_No phone service,0.0,0.0,MultipleLines No phone service
+InternetService_No,0.0,0.0,InternetService No
+OnlineSecurity_No internet service,0.0,0.0,OnlineSecurity No internet service
+TechSupport_No internet service,0.0,0.0,TechSupport No internet service
+DeviceProtection_No internet service,0.0,0.0,DeviceProtection No internet service
+OnlineBackup_No internet service,0.0,0.0,OnlineBackup No internet service
+StreamingTV_No internet service,0.0,0.0,StreamingTV No internet service
+Contract_Month-to-month,0.0,0.0,Contrat mensuel
+StreamingMovies_No internet service,0.0,0.0,StreamingMovies No internet service
+TechSupport_Yes,0.0,0.0,TechSupport Yes
+PaymentMethod_Electronic check,0.0,0.0,Paiement par chèque électronique
